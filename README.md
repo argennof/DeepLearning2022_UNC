@@ -4,7 +4,7 @@ Repositorio de respuestas de la materia: Aprendizaje Profundo (2022), en el marc
 
 # **DIPLOMATURA 2022**
 
-# XXXXXXXXXXXXXXXXXXXXXXXXXXXX Nombre materia mayus
+# APRENDIZAJE PROFUNDO
 
 ## INTEGRANTES:
    - [x] Virginia Romero Messein

@@ -12,17 +12,3 @@ Repositorio de respuestas de la materia: Aprendizaje Profundo (2022), en el marc
 
 ----   
 En este repositorio se encuentran las entregas con resultados correspondientes a la asignatura de _Aprendizaje Profundo (Deep Learning)_.
-
-## **Requerimientos - Librerías necesarias**:
-   - [x] 
-   - [x] 
-   - [x] 
-   - [x] 
-   - [x] 
-   - [x] 
-   - [x] 
-   - [x] sklearn
-----
-
-
-# Documentación:
